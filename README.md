@@ -209,22 +209,7 @@ interview-ai/
 ```
 ---
 
-## ⚡ Error Handling
 
-The backend includes handling for common application scenarios such as:
-
-Invalid authentication
-Missing authentication token
-Invalid JWT
-Invalid credentials
-Missing resume file
-Invalid requests
-Database errors
-AI service errors
-Missing environment configuration
-
-This helps provide predictable responses between the frontend and backend.
-----
 
 ## 👩‍💻 Author
 Avani Gupta
