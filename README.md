@@ -60,6 +60,26 @@ The platform provides secure user authentication and account management.
 
 ---
 
+## 🛠️ Technology Stack
+
+| Category | Technologies | Purpose |
+|---|---|---|
+| **Frontend** | React, Vite, JavaScript, HTML5, CSS3 | Building the interactive user interface |
+| **Backend** | Node.js, Express.js | Building the server-side application and REST APIs |
+| **Database** | MongoDB, Mongoose | Storing users, interview reports, skill gaps, and preparation plans |
+| **AI / GenAI** | Google Gemini API, Google GenAI SDK | AI-powered interview analysis, question generation, skill-gap analysis, and personalized preparation |
+| **Authentication** | JWT, bcrypt, Cookie Parser | Secure user authentication, password hashing, and session/token management |
+| **API Communication** | Axios, REST APIs | Communication between the React frontend and Express backend |
+| **File Upload** | Multer | Handling resume PDF uploads |
+| **Document Processing** | PDF Parser | Extracting text from uploaded resume PDFs |
+| **PDF Generation** | HTML-based PDF generation | Generating downloadable AI-assisted resume PDFs |
+| **Validation** | Zod | Validating structured AI responses and application data |
+| **Cross-Origin Security** | CORS | Secure communication between frontend and backend |
+| **Development Tools** | npm, Git, GitHub | Dependency management, version control, and source-code hosting |
+| **Environment Management** | `.env` / Environment Variables | Securely managing API keys, database URLs, and authentication secrets |
+| **Architecture** | MERN Stack, REST Architecture, Service-Based Backend | Structuring the application into scalable frontend, backend, database, and AI layers |
+
+
 
 ## 📑 AI-Generated Resume PDF
 
